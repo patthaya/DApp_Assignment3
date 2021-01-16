@@ -31,10 +31,14 @@ Deploy Contract Name : 2_deploy_contracts.js
 ---
 
 ### การวิเคราะห์และออกแบบ Front-End ที่เกี่ยวข้อง
+File : index.html
 
+![image](https://user-images.githubusercontent.com/74086000/104813033-12663380-5839-11eb-8fcb-bf6d73c7c128.png)
 
+### การวิเคราะห์และออกแบบ Back-End ที่เกี่ยวข้อง  
+File : gift.json
+File : Donation.json
+File : app.js
 
-### การวิเคราะห์และออกแบบ Back-End ที่เกี่ยวข้อง
-
-- การจัดทำ (Implementation) ได้แก่ การอธิบายโค้ดเฉพาะส่วนที่สำคัญ
-- ผลการทดสอบ (Testing) แสดงผลลัพธ์ที่ได้จากโครงการ
+###การจัดทำ (Implementation)  
+###ผลการทดสอบ (Testing) แสดงผลลัพธ์ที่ได้จากโครงการ
