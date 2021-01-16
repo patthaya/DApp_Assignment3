@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "Dumbledore",
+    "picture:": "images/pic1.jpeg",
+    "about": "Officially licensed",
+    "desc": "this POP! Albus Dumbledore Vinyl Figure is an experienced wizard"
+  },
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "picture": "images/pic2.jpeg",
+    "about": "Officially licensed",
+    "desc": "Wingardium Leviosa! Start practicing that incantation because it makes objects levitate toward you."
+  },
+  {
+    "id": 2,
+    "name": "Draco Malfoy",
+    "picture": "images/pic3.jpeg",
+    "about": "Officially licensed",
+    "desc": "Stylized collectable stands 3 3/4 inches tall, perfect for any Harry Potter fan!"
+  },
+  {
+    "id": 3,
+    "name": "Hermione Granger",
+    "picture": "images/pic4.jpeg",
+    "about": "Officially licensed",
+    "desc": "Check out the other Harry Potter figures from Funko! Stands 3 3/4 inches"
+  }
+]
